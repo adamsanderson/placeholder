@@ -3,6 +3,7 @@ img.placeholder {
   position: relative;
   color: #999;
   background: #ccc;
+  display: inline-block;
 }
 
 img.placeholder:hover {
