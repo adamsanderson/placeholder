@@ -3,8 +3,13 @@
   Simple CSS image placeholders.
 
 ## Installation
+Either install placeholder.css as a component:
 
     $ component install adamsanderson/placeholder
+
+Or link to it after your normal styles:
+
+    <link rel="stylesheet" href="placeholder.css">
 
 ## Usage
 

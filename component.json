@@ -3,7 +3,7 @@
   "repo": "adamsanderson/placeholder",
   "description": "CSS image placeholders",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["placeholder", "image", "mockup"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
