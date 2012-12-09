@@ -1,0 +1,13 @@
+{
+  "name": "placeholder",
+  "repo": "adamsanderson/placeholder",
+  "description": "CSS image placeholders",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "placeholder.css"
+  ]
+}

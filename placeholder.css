@@ -1,0 +1,26 @@
+img.placeholder {
+  content: "";
+  position: relative;
+  color: #999;
+  background: #ccc;
+}
+
+img.placeholder:hover {
+  background: #ddd;
+}
+
+img.placeholder:after,
+img.placeholder[title]:hover:after {
+  content: attr(width) " " "\d7" " " attr(height);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  margin-top: -0.5em;
+  overflow: hidden;
+  text-align: center;
+}
+
+img.placeholder[title]:after {
+  content: attr(title);
+}
